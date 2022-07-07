@@ -68,8 +68,15 @@ def perform
     ask_handle(journalistes)
     puts "========================================="
     ask_litle_handle(journalistes)
-    puts "-----------"
+    puts "========================================="
     ask_handle_5(journalistes)
+    puts "========================================="
+    ask_ordre(journalistes)
+    puts "========================================="
+    ask_taille(journalistes)
+    puts "========================================="
+    ask_epenser(journalistes)
+
 end 
 
 
